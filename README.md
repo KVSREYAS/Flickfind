@@ -41,14 +41,6 @@
     <li><strong>Content Management:</strong> Improve the organization and retrieval of movie-related data.</li>
 </ul>
 
-<h2>Installation</h2>
-<p>To get started with this project, follow these steps:</p>
-<ol>
-    <li>Clone the repository: <code>git clone https://github.com/yourusername/ner-movie-descriptions.git</code></li>
-    <li>Navigate to the project directory: <code>cd ner-movie-descriptions</code></li>
-    <li>Install the required dependencies: <code>pip install -r requirements.txt</code></li>
-</ol>
-
 <h2>Usage</h2>
 <p>To run the NER model on a movie description, use the following steps:</p>
 <ol>
